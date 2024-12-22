@@ -1,0 +1,322 @@
+[
+  {
+    "answerkey": 1,
+    "option 3": "Retesting",
+    "option 4": "Sanity testing",
+    "question": "Which methodology is used to performed Maintenance testing?",
+    "option 1": "Breadth test and depth test",
+    "option 2": "Confirmation testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Test strategy",
+    "option 4": "Project Initiation Note [PIN]",
+    "question": "Which of the following is not part of the Test document?",
+    "option 1": "Test Case",
+    "option 2": "Requirements Traceability Matrix [RTM]"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "A stage of all projects",
+    "option 4": "None of the above",
+    "question": "Which term is used to define testing?",
+    "option 1": "Evaluating deliverable to find errors",
+    "option 2": "Finding broken code"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Deployment phase",
+    "option 4": "Testing closure",
+    "question": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+    "option 1": "Testing Phase",
+    "option 2": "Requirement Phase"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Design based testing",
+    "option 4": "None of the above",
+    "question": "Which of the following testing is also known as white-box testing?",
+    "option 1": "Structural testing",
+    "option 2": "Error guessing technique"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Black box testing",
+    "option 4": "None of the above",
+    "question": "Which of the following testing is related to the boundary value analysis?",
+    "option 1": "White box and black box testing",
+    "option 2": "White-box testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "SDLC Model",
+    "option 4": "Test type",
+    "question": "Functional testing is a ------?",
+    "option 1": "Test design technique",
+    "option 2": "Test level"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "System testing",
+    "option 4": "All of the above",
+    "question": "What are the different levels of Testing?",
+    "option 1": "Integration testing",
+    "option 2": "Unit testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Test Design",
+    "option 4": "Testing closure",
+    "question": "Which of the following is not a part of STLC (Software Testing Life Cycle)?",
+    "option 1": "Testing Planning",
+    "option 2": "Requirement Gathering"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Test Level",
+    "option 4": "Test design technique",
+    "question": "Sanity testing is a ------?",
+    "option 1": "Test type",
+    "option 2": "Test Execution Level"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Data flow testing",
+    "option 4": "All of the above",
+    "question": "White box testing techniques are?",
+    "option 1": "Statement coverage testing",
+    "option 2": "Decision coverage testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "User's and developer's end",
+    "option 4": "None of the above",
+    "question": "In which environment we can performed the Alpha testing?",
+    "option 1": "User's end",
+    "option 2": "Developer's end"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Incident reports",
+    "option 4": "Entry and exit criteria",
+    "question": "Which of the below is not a part of the Test Plan?",
+    "option 1": "Schedule",
+    "option 2": "Risk"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Procedure Errors",
+    "option 4": "None of the mentioned",
+    "question": "What is the key objective of Integration testing?",
+    "option 1": "Design Errors",
+    "option 2": "Interface Errors"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Black Box Test Design Technique",
+    "option 4": "Grey Box Test Design Technique",
+    "question": "Exploratory testing is a -----?",
+    "option 1": "Experience-based Test Design Technique",
+    "option 2": "White Box Test Design Technique"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "When the environment has been modified",
+    "option 4": "Both option 1 and 3",
+    "question": "What is the best time to perform Regression testing?",
+    "option 1": "After the software has been modified",
+    "option 2": "As frequently as possible"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "The testing team is not good",
+    "option 4": "All of the above",
+    "question": "Does the customer get a 100% bug-free product?",
+    "option 1": "Product is old",
+    "option 2": "Developers are super"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Grey box testing",
+    "option 4": "All of the above",
+    "question": "Cyclomatic complexity is?",
+    "option 1": "White-box testing",
+    "option 2": "Black box testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Statement testing",
+    "option 4": "Database testing",
+    "question": "Which of the following is not part of the Test type?",
+    "option 1": "Function testing",
+    "option 2": "System testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Test Case",
+    "option 4": "Test Plan",
+    "question": "Which Test Document is used to define the Exit Criteria of Testing?",
+    "option 1": "Defect Report",
+    "option 2": "Test Summary Report"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Different Tools to perform Regression Testing",
+    "option 4": "How many more test cases need to write?",
+    "question": "Impact analysis helps us to decide which of the following testing?",
+    "option 1": "Exit Criteria",
+    "option 2": "How much regression testing should be done?"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Black Box testing",
+    "option 4": "Combination of all",
+    "question": "Which testing technique is used for usability testing?",
+    "option 1": "White-box testing",
+    "option 2": "Grey box testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Functional incrimination",
+    "option 4": "Bottom-up approach",
+    "question": "Which is not the right approach of Incremental testing approach?",
+    "option 1": "Big bang approach",
+    "option 2": "Top-down approach"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "User's end",
+    "option 4": "None of the above",
+    "question": "In which environment we can performed the Beta testing?",
+    "option 1": "User's and developer's end",
+    "option 2": "Developer's end"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Test execution techniques",
+    "option 4": "Test case design\/ data management techniques",
+    "question": "What is error guessing in software testing?",
+    "option 1": "Test control management techniques",
+    "option 2": "Test verification techniques"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "After SRS creation",
+    "option 4": "After the installation phase",
+    "question": "After which phase, we can proceed to the white box testing?",
+    "option 1": "After the coding phase",
+    "option 2": "After designing phase"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Glass box testing",
+    "option 4": "None of the mentioned",
+    "question": "Which of the following is not another name of white box testing?",
+    "option 1": "Structural testing",
+    "option 2": "Behavioral testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Unit, Integration, Acceptance, System",
+    "option 4": "Unit, System, Integration, Acceptance",
+    "question": "The test levels are performed in which of the following order?",
+    "option 1": "Unit, Integration, System, Acceptance",
+    "option 2": "It is based on the nature of the project"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Found in the software; the result of an error.",
+    "option 4": "It is procedure or data definition in a computer database.",
+    "question": "Define the term failure?",
+    "option 1": "A human action that produces an incorrect result.",
+    "option 2": "Its departure from specified behavior"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Test design technique",
+    "option 4": "Software development testing (SDLC) model",
+    "question": "\"V\" model is?",
+    "option 1": "Test type",
+    "option 2": "Test Level"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Unit Testing",
+    "option 4": "None of the above",
+    "question": "Which of the below testing is executed without documentation and planning is known as?",
+    "option 1": "Regression Testing",
+    "option 2": "Adhoc Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Performance Testing",
+    "option 4": "None of the above",
+    "question": "Which of the below testing is related to Non-functional testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Black-box Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Basic path testing",
+    "option 4": "None of the above",
+    "question": "Which of the below testing is related to black-box testing?",
+    "option 1": "Boundary value analysis",
+    "option 2": "Code path analysis"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Grey box testing",
+    "option 4": "Alpha testing",
+    "question": "Which of the following testing is also called Acceptance testing?",
+    "option 1": "Beta testing",
+    "option 2": "White-box testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "White-box testing",
+    "option 4": "Red box testing",
+    "question": "-------- testing is used to check the code?",
+    "option 1": "Grey box testing",
+    "option 2": "Black box testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Additional tests that emphasize software functions, which are likely to be affected by the change.",
+    "option 4": "A representative sample of tests, which will exercise all software functions.",
+    "question": "The Regression test case is not a --------?",
+    "option 1": "Tests that focus on the software components, which have been modified.",
+    "option 2": "Low-level components are combined into clusters, which perform a specific software sub-function."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Regression Testing",
+    "option 4": "Smoke testing",
+    "question": "Generally, which testing is used when shrink-wrapped software products are being established and part of an integration testing?",
+    "option 1": "Integration Testing",
+    "option 2": "Validation testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Comparison of different data types",
+    "option 4": "All of the above",
+    "question": "Which of the following statement is used to discover errors in the test case?",
+    "option 1": "Incorrect logical operators or precedence",
+    "option 2": "Non-existent loop termination"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Experience-based Test Design Technique",
+    "option 4": "Grey Box Test Design Technique",
+    "question": "The Decision table testing is a ----------?",
+    "option 1": "White box Test Design Technique",
+    "option 2": "Black Box Test Design Technique"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "The time completed",
+    "option 4": "The risk is resolved",
+    "question": "When we have to stop the testing?",
+    "option 1": "The faults have been fixed",
+    "option 2": "All the tests run"
+  }
+]
