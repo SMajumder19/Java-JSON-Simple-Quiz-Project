@@ -12,3 +12,6 @@ In this project, there are mainly two users: admin and student. Admin user can l
 
 # Video Link (of the project demo):
 https://drive.google.com/file/d/1B7RauX8BdCE4ITHMWgNPTXygO7B18FOz/view?usp=drive_link
+
+# Q/A Link (which were added in quiz.json):
+https://www.javatpoint.com/software-testing-mcq
